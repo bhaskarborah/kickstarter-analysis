@@ -1,6 +1,6 @@
 # Kickstarting with Excel
 
-## Overview of Project
+## Overview of Project 
 
 Louise is a budding playwright who wants to crowdfund her play "Fever". She is estimating upwards of $10,000 to get the play into production and live. Her play came close to its fundraising goal in a short amount of time. 
 Louise now wants to find out how different campaigns have fared 
